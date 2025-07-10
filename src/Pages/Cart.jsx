@@ -72,7 +72,7 @@ const Cart = () => {
           <button
             onClick={() => {
               setOrderPlaced(false);
-              navigate("/products");
+              navigate("/product");
               window.scrollTo(0, 0);
             }}
             className="bg-indigo-500 hover:bg-indigo-600 text-white px-6 py-3 rounded"
