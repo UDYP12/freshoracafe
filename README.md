@@ -20,6 +20,7 @@ This project is built to provide a fast, clean, and user-friendly interface for 
 ## 🔧 Tech Stack
 
 - **React.js** – Frontend framework
+
 - **React Router DOM** – Routing
 - **Tailwind CSS** – Styling
 - **Vite** – Build tool
