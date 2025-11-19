@@ -6,7 +6,7 @@ const Categories = () => {
     const { navigate } = useAppContext();
     
     return (
-        <div className="px-4 sm:px-6 md:px-8 lg:px-12 xl:px-16 py-8 md:py-12">
+        <div className="px-4 sm:px-6 md:px-8 lg:px-12 xl:px-15 py-8 md:py-12">
             <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold text-gray-800 mb-6 md:mb-8">Shop by Categories</h2>
             
             <div className="grid grid-cols-2 xs:grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-7 gap-3 sm:gap-4 md:gap-5">
